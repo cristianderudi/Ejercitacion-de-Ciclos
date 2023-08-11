@@ -1,6 +1,7 @@
 /* Crear una programa que pida un valor y muestre los 10
 números siguientes. */
 
+
 const prompt = require("prompt-sync")({ sigint: true});
 
 let num = prompt("Introduce un número:"); // Pide al usuario que introduzca un número y lo guarda en la variable "num"

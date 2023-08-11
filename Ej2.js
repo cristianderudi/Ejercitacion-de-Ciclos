@@ -1,5 +1,6 @@
 /* Imprimir los números entre el 5 y el 20, saltando de tres en tres. */
 
+
 // Inicializar una variable con el valor de inicio (5)
 var numero = 5;
 
